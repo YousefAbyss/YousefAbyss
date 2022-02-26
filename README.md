@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yousef
-- 👀 I’m interested in Physics simulations
+- 👀 I love making scientific simulations
 - 🌱 I’m currently learning Mathematica and Python
-- 💞️ I’m looking to collaborate on Mathematica projects
 - 📫 Discord: Abyss#7327
 
 <!---
