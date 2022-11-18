@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yousef
-- 👀 I love making scientific simulations
-- 🌱 I’m currently learning Mathematica and Python
+- 👀 I'm an undergraduate physics student and I love making scientific simulations
+- 🌱 I’m currently working on molecular dynamics
 - 📫 Discord: Abyss#7327
 
 <!---
