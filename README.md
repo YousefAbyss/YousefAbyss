@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yousef
 - 👀 I'm an undergraduate physics student and I love making scientific simulations
-- 🌱 I’m currently working on non linear dynamics simulations and learning Julia
+- 🌱 I’m currently working on solving differential equations using neural networks and learning Julia
 - 📫 Discord: Abyss#7327
 
 <!---
