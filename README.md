@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yousef
-- 👀 I'm a physics student who loves programming and simulating
-- 🌱 I’m currently working on the formation of Kepler 80 planetary system
+- 👀 I love programming
+- 🌱 I’m currently working on solving inverse problems using machine learning
 - 📫 Discord: Abyss#7327
 
 <!---
