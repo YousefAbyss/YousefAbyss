@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yousef
-- 👀 I love programming
+- 👀 I love network science and programming
 - 🌱 I’m currently working on solving inverse problems using machine learning
 - 📫 Discord: Abyss#7327
 
