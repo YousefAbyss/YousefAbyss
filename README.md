@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yousef
 - 👀 I love network science and programming
-- 🌱 I’m currently working on solving inverse problems using machine learning
-- 📫 Discord: Abyss#7327
+- 🌱 I’m currently working on higher-order kuramoto model and diffusion on networks
 
 <!---
 YousefAbyss/YousefAbyss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
